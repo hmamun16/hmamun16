@@ -11,8 +11,8 @@ http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1340.m3u8
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1305.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-DESH-TV="BANGLA ENT.",MASRANGA TV
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1307.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfQyYY5ksljNyVCEbS_EQ1XTJFQwJsq3sxqw&usqp=CAU" group-DESH-TV="BANGLA ENT.",
-
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfQyYY5ksljNyVCEbS_EQ1XTJFQwJsq3sxqw&usqp=CAU" group-DESH-TV="BANGLA ENT.",CHANNEL I
+http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1295.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png" group-DESH-TV="BANGLA ENT.",BANGLAVISION
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1299.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-DESH-TV="BANGLA ENT.",N TV

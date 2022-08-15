@@ -1,79 +1,81 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",BTV
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMQytiLDhJz5vhOI4uQtTX8bN9y6t1mmO7A&usqp=CAU" group-DESH-TV="BANGLA ENT.",BTV
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1746.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",BTV CTG
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcbQRKGD8Su9GdM14dje0WGExaS5EOGyxNw&usqp=CAU" group-DESH-TV="BANGLA ENT.",BTV CTG
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/5071.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",EKUSHEY TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-DESH-TV="BANGLA ENT.",EKUSHEY TV
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1315.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",BOISHAKHAI PLUS
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3_S-6gxW0cTE50OjtbNVgiFudDWhgBKXNGw&usqp=CAU" group-DESH-TV="BANGLA ENT.",BOISHAKHAI PLUS
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1340.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",BOUSHAKHI TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png" group-DESH-TV="BANGLA ENT.",BOUSHAKHI TV
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1305.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",MASRANGA TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-DESH-TV="BANGLA ENT.",MASRANGA TV
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1307.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",BANGLAVISION
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfQyYY5ksljNyVCEbS_EQ1XTJFQwJsq3sxqw&usqp=CAU" group-DESH-TV="BANGLA ENT.",
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png" group-DESH-TV="BANGLA ENT.",BANGLAVISION
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1299.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",RTV MUSIC
-http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/5021.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",N TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-DESH-TV="BANGLA ENT.",N TV
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1296.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",R TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-DESH-TV="BANGLA ENT.",R TV
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1297.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",DEEPTO TV HD
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-zoB3TV0nFgAHD1wJdUaCXup8-n0P3MlsYw&usqp=CAU" group-DESH-TV="BANGLA ENT.",RTV MUSIC
+http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/5021.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSm_ltcxJEPHpTOO0miQpqIjiR2IIZGXzR3g&usqp=CAU" group-DESH-TV="BANGLA ENT.",DEEPTO TV HD
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/2659.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",ASIAN TV HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/200px-Asian_TV_Logo.svg.png" group-DESH-TV="BANGLA ENT.",ASIAN TV HD
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/2727.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",SA TV
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8lS7bOEoSw2hkwhGaAdTPODfXaBUPBuO9bA&usqp=CAU" group-DESH-TV="BANGLA ENT.",SA TV
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1301.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",NAGORIK TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Nagorik_TV_Logo.png" group-DESH-TV="BANGLA ENT.",NAGORIK TV
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1298.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",MY TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/1200px-My_TV_Logo.svg.png" group-DESH-TV="BANGLA ENT.",MY TV
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1308.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",ATN BANGLA
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-DESH-TV="BANGLA ENT.",ATN BANGLA
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/4487.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",CHANNEL 9
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-DESH-TV="BANGLA ENT.",CHANNEL 9
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/2316.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",BANGLA TV HD
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpFozhXAD_lKUP1mrMW9JGGF21RElmEX0HOA&usqp=CAU" group-DESH-TV="BANGLA ENT.",BANGLA TV HD
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1323.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",MOVIE BANGLA
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1JIfP1D_m5CTTKLwE3zvVNp1TpzTFZpOD-Q&usqp=CAU" group-DESH-TV="BANGLA ENT.",MOVIE BANGLA
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1327.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",NEXUS TV
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWCoPTU7wmU_22abVxc9nNmA9KRFhAhC6Rlw&usqp=CAU" group-DESH-TV="BANGLA ENT.",NEXUS TV
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/2820.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",MAGIC BANGLA TV
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS65TpqaZVh4E8RxbN_v7IqCfLIFaxxA1VHjw&usqp=CAU" group-DESH-TV="BANGLA ENT.",MAGIC BANGLA TV
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1325.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",ROYAL TV
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8LCkv1OuzBUXjGan867EaFmhRJiN_LZHs5g&usqp=CAU" group-DESH-TV="BANGLA ENT.",ROYAL TV
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1336.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",CNN BANGLA TV
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4yigQfOvNx72GFN_Goj6lcu2as6gEDsLynQ&usqp=CAU" group-DESH-TV="BANGLA ENT.",CNN BANGLA TV
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1346.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",NANDAN TV
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCI21h2nro3B_oE0wr14I5kVEPEri5oPytgg&usqp=CAU" group-DESH-TV="BANGLA ENT.",NANDAN TV
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1463.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",CHANNEL S TV
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoqaE36Co3nN_LfgvOB_W9he5Uj8dFhdimFcLj_0DwWgQua1RmNgUQ9kd2&s=10" group-DESH-TV="BANGLA ENT.",CHANNEL S TV
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1464.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",MILLENNINIUM TV HD
+#EXTINF:0 tvg-logo="https://millenniumtv.org/wp-content/uploads/2021/06/Icon-512.png" group-DESH-TV="BANGLA ENT.",MILLENNINIUM TV HD
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1501.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",NRB TV HD
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHbR2rO29DPXH9uRBYjxDUyEb8Tq645_FSWQ&usqp=CAU" group-DESH-TV="BANGLA ENT.",NRB TV HD
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1507.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",MEGNA TV
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyNAqExZZ5tSfaxhhB4aw-jT-5OnEYrKYzOA&usqp=CAU" group-DESH-TV="BANGLA ENT.",MEGNA TV
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/2530.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",KTV BANGLA
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrOTciac42ikvAwYR3lH5GOVcwPI5KJcG90Q&usqp=CAU" group-DESH-TV="BANGLA ENT.",KTV BANGLA
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/2732.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",BANGLA 21 TV
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv8_EO1vUxCa8IhyzpJeRME-5y9huTs1YM4g&usqp=CAU" group-DESH-TV="BANGLA ENT.",BANGLA 21 TV
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/2735.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",PROBASHI BANGLA
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI86jG4O3CN7ktiL_YrT2tuNNZktCzPoh6Sw&usqp=CAU" group-DESH-TV="BANGLA ENT.",PROBASHI BANGLA
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/2772.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",DESH TV
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1320.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",MOHONA TV,
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIC50h6_tDEbFzme9Z03N49ak3259cRHww0w&usqp=CAU" group-DESH-TV="BANGLA ENT.",MOHONA TV,
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1309.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",ANANDA TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Ananda_TV_Logo.png/220px-Ananda_TV_Logo.png" group-DESH-TV="BANGLA ENT.",ANANDA TV
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1312.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",DURONTO TV
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsLNjyZBea2k2T-xTs_OaVL5Y0JjdRFPcqGg&usqp=CAU" group-DESH-TV="BANGLA ENT.",DURONTO TV
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1778.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",BIJOY TV
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZOUAh-RnEi5lCJ_4DRpwnn2UUCg9Fv5KqeA&usqp=CAU" group-DESH-TV="BANGLA ENT.",BIJOY TV
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1318.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",GLOBAL TV HD
+#EXTINF:0 tvg-logo="https://www.globaltvbd.com/uploads/logo/Logo-Global-Television.png" group-DESH-TV="BANGLA ENT.",GLOBAL TV HD
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/4815.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_8H-f1kBqZFBej9cxZD3FOy1zPIa7_TkB7f77-rL3J5z6PZpsRf82nA&s=10" group-DESH-TV="BANGLA ENT.",ATN MUSIC
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYGy-4Tp9japwVo_gze0ZSoU6iyEfaXiyh6w&usqp=CAU" group-DESH-TV="BANGLA ENT.",ATN MUSIC
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/1341.m3u8
 #EXTINF:0 tvg-logo="https://sadhinbangla.tv/wp-content/uploads/2021/07/4-011.png" group-DESH-TV="BANGLA ENT.", SADHIN BANGLA HD TV
 http://tv.univisionlive.net:25461/live/Digi667457/Digi667457/3315.m3u8

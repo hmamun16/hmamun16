@@ -179,15 +179,15 @@ https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
 https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPZBd9suwXc4Y1c-dRexu4QcTXrspfbKpA8MbeFYhp3W9a8kJReT9OdTg&s=10" group-title="HINDI MOVIE.",E24
 http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNStmeIQpe4pTxs94MTXed-SUZS1BdLw_2kQ&usqp=CAU" group-title="HINDI MOVIE.",B4U Movie 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd04t6E6tGh_wOv4RLebUkByRh_6AVn4FZ5w&usqp=CAU" group-title="HINDI MOVIE.",B4U Movie 
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNStmeIQpe4pTxs94MTXed-SUZS1BdLw_2kQ&usqp=CAU" group-title="HINDI MOVIE.",Hasti Tv
 https://live.hastitv.com/hls/livetv.m3u8
 #EXTINF:0 tvg-logo="https://www.pngkey.com/png/detail/211-2118020_utv-action-utv-action-logo-png.png" group-title="HINDI MOVIE.",UTV-Action
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/l9Ae4yaZmJNMdSFNdy8MUCr2MRwO-JMUsCQuJNgHVfo1wNoqEY9q5O5aNsgSXlnxKUbJfDF3UytyicWvlkXkVoo2NGrjKUIYMynVJgLjHwQbMvqs4KTrumTeceSdnng_hQ=w1280" group-title="HINDI MOVIE.",U TV Movie 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw4o0as1lsqvDsmY8vWo8ePizscA1QxVinFA&usqp=CAU" group-title="HINDI MOVIE.",U TV Movie 
 http://103.127.92.38:81/play/utvmovies
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/l9Ae4yaZmJNMdSFNdy8MUCr2MRwO-JMUsCQuJNgHVfo1wNoqEY9q5O5aNsgSXlnxKUbJfDF3UytyicWvlkXkVoo2NGrjKUIYMynVJgLjHwQbMvqs4KTrumTeceSdnng_hQ=w1280" group-title="HINDI MOVIE.",U TV 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjiT7HwkS3gJqTlA7QGqzt5iBFP495cCb3Vg&usqp=CAU" group-title="HINDI MOVIE.",U TV 
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/130px-Sony_MAX.svg.png" group-title="HINDI MOVIE.",Set Max
 http://103.166.253.222/hls/sonymax.m3u8
@@ -195,7 +195,7 @@ http://103.166.253.222/hls/sonymax.m3u8
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIB77EXjxKkVR42EHBrRyRmBM6KKzHBl-N2b39_gR9vMs4mN16ujUQbaA&s=10" group-title="HINDI MOVIE.",Sony-Max 2 Ind
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDNM6A9aaPW8LNYs4_x5Zdm2yQ1kaSs9wZFA&usqp=CAU" group-title="HINDI MOVIE.",Sony Wah
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfXnrqLVnBXIbs_XccrKMNDsG3VtgrnaE4cg&usqp=CAU" group-title="HINDI MOVIE.",Sony Wah
 http://dangguli.live:8080/SonyWah/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGejYCsf4-B-r3KaBd7Vdrb-cSlek4Kb3XFw&usqp=CAU" group-title="HINDI MOVIE.",Filmy Tv
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
@@ -210,7 +210,7 @@ http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/08/Zee-Bollywood-Logo.jpg" group-title="HINDI MOVIE.",Zee-Bollywood
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://lh4.googleusercontent.com/C3iSXyItD5TAobfwo_0MbWVXBiLQi6ECnOOimseEyhxq8xKd_5O50_1EYG86-eFz0herI2I0sJhs9agkPC5egajOGcc0ug5A3OXHy5d87z5KR6SM1ylP53Ydn2xrB3ZDSQ=w1280" group-title="HINDI MOVIE.",Zee Classic 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXGrf5ZvYWbWjmSJetdb_oWVfC1V7PXCoVRg&usqp=CAU" group-title="HINDI MOVIE.",Zee Classic 
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="HINDI MOVIE.",B4U-Kadak
 https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
@@ -253,7 +253,7 @@ http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1382.m3u8
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/br7ZzX3R/IMG.jpg" group-title="HINDI MUSIC.",Zoom-Music
 http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/sYR1cWtCtw7CweNrzs4VU2tz73_7C_m30Isaq0HDKlxUkKt-fzKWbcAs5FXCjwAjwa7eyOqS9G7FHbbHdc04Oh38BYqK6TQcR5lQZsjiNDfmbZcSxw-mP0xekmI5KuHfYQ=w1280" group-AM="HINDI MUSIC.",B4u Music 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCXQS_NGIFa7fa5HpEAfw8i7K03y8FF4CZSg&usqp=CAU" group-AM="HINDI MUSIC.",B4u Music 
 http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBnfbs8fkgxeNgP1_shXZiRRcmHWKxStyqg&usqp=CAU" group-title="HINDI MUSIC.",Shemaro-Music
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/1650.m3u8
@@ -263,22 +263,22 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 http://14.199.164.20:4001/play/a0p2/index.m3u8
 #EXTINF:0 tvg-logo="https://sc.dish.com/shared/images/station-logos/ARBMU.png" group-title="Arabian MUSIC.",Arabian-Music(BDIX)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDtvtQkLt2FyUCjIvmPYHlo7ShxTjgwNhpIA&usqp=CAU" group-title="ENGLISH MOVIE.",CRACKLE Tv
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsHl0NegVC_gpgM00ODvFB00Tuhyc5RzKccw&usqp=CAU" group-title="ENGLISH MOVIE.",CRACKLE Tv
 http://crackle-xumo.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdVFypKtTFK24FytADjeobO-gkO8B8FJK8Pg&usqp=CAU" group-title="ENGLISH MOVIE.",Movie X
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt2UhMbstSNziG6_eij6xe-YJ3grfJXtmrOw&usqp=CAU" group-title="ENGLISH MOVIE.",Movie X
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?checkedby:D4N-IPTV
-#EXTINF:0 tvg-logo="https://www.pay2easy.com/uploads/9056-movies_now_plus_hd.png" group-title="ENGLISH MOVIE.",CINEMO
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Cinemo_logo_vectorized.svg/1200px-Cinemo_logo_vectorized.svg.png" group-title="ENGLISH MOVIE.",CINEMO
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/CDN/playlist.m3u8?checkedby:D4N-IPTV
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQarY6a6Z6dJcJgPsW9856WNLKmalVoberuQ&usqp=CAU" group-title="ENGLISH MOVIE.",Cinemax
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 http://103.127.92.38:81/play/a01g
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE73S47nvroWg6key6S_t79jQKr8_RVSXm99Xa3Q2_KjdixgV_ZgSuJH0H&s=10" group-title="ENGLISH MOVIE.",C 1 Tv
+#EXTINF:0 tvg-logo="https://www.seekpng.com/png/full/357-3579186_c1-full-cinema-one-logo-png.png" group-title="ENGLISH MOVIE.",C 1 Tv
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemaone/CDN/playlist.m3u8?checkedby:D4N-IPTV
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv83wyglG_3gJb6pB1cGbuKVpbUF1Fx54CCA&usqp=CAU" group-title="ENGLISH MOVIE.",Hollywood Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRStjQgV4MnHL0YUI74f_FIBMuPPQPuEkpjHQ&usqp=CAU" group-title="ENGLISH MOVIE.",Hbo
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" group-title="ENGLISH MOVIE.",Hits Movie 
+#EXTINF:0 tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="ENGLISH MOVIE.",Hits Movie 
 http://103.127.92.38:81/play/a01h
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7QiRJevINmRHY09lQZHAqpe40GwcVKpe1ug&usqp=CAU"group-titile="ENGLISH MOVIE.",Axn 
 http://103.127.92.38:81/play/axn
@@ -300,23 +300,23 @@ http://103.179.246.243:8000/play/a016
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngrR0DfEqIThsW1eMxLP6cXnFWRmk12B7MZ8-04ZQ=s900-c-k-c0x00ffffff-no-rj" group-title="ENGLISH MOVIE.",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXY8OAigOb5bPw78aRxLN1y8tx8vh_t3z12w&usqp=CAU" group-title="ENGLISH MOVIE.",TV 5
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlsJBCc3S1Al5HbLGb4JvYATLEtcoIA7u4ow&usqp=CAU" group-title="ENGLISH MOVIE.",TV 5
 http://210.210.155.37/dr9445/s/s24/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZO1cWukkLQ4Z-CDs6X0wveWCs1DvLkJVKSA&usqp=CAU" group-title="ENGLISH MOVIE.",MEGAPIX HD
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngrR0DfEqIThsW1eMxLP6cXnFWRmk12B7MZ8-04ZQ=s900-c-k-c0x00ffffff-no-rj" group-title="ENGLISH MOVIE.",Amirikan Movie
 https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
 #EXTINF:0 tvg-logo="http://play.google.com/store/apps/details?id=com.mehedisoft.iptvapp_mobile" group-title="ENGLISH MOVIE.",Cinema Tv
 https://sc.id-tv.kz/Cinema_34_35.m3u8
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngrR0DfEqIThsW1eMxLP6cXnFWRmk12B7MZ8-04ZQ=s900-c-k-c0x00ffffff-no-rj" group-title="ENGLISH MOVIE.",Sofi Tv
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvYUlpTfOaMRAtDocGoYPsHsLcxvIEqeJy8A&usqp=CAU" group-title="ENGLISH MOVIE.",Sofy Tv
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="http://play.google.com/store/apps/details?id=com.mehedisoft.iptvapp_mobile"group-title="ENGLISH MOVIE.", Holi
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVboo9qb7uMUMc1pNv-6Ey7VGmYpIDS_J0Sw&usqp=CAU"group-title="ENGLISH MOVIE.",H Tv
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceType=web&deviceMake=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&deviceDNT=0&deviceModel=Chrome&userId=&appName=&app_name=&appStoreUrl=
-#EXTINF:0 tvg-logo="http://play.google.com/store/apps/details?id=com.mehedisoft.iptvapp_mobile" group-title="ENGLISH MOVIE.",My Time 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSKbDkBj3t3tpjaVkIw0SPMAzLx0pLJNUgAw&usqp=CAU" group-title="ENGLISH MOVIE.",My Time Tv
 https://mytime-tcl.amagi.tv/playlist.m3u8
 https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",My Cinema Europe
 http://210.210.155.35/session/bc0a1e22-773f-11eb-ab01-a3d7ba48b0db/uq2663/h/h18/02.m3u8
-#EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",CCTN Tv
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2EDjwUATGtbOV49f10EbU5OxsDua0xMxOMA&usqp=CAU" group-title="ENGLISH MOVIE.",CCTN Tv
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8?checkedby:D4N-IPTV
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwHAl1NoTrhDEbWIvS1fVkfpIkn2d453TVVQ&usqp=CAU" group-title="beIN SPORTS.",T Sports
 http://dangguli.live:8080/TSportsHD/index.m3u8

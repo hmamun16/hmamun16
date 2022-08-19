@@ -184,9 +184,10 @@ http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNStmeIQpe4pTxs94MTXed-SUZS1BdLw_2kQ&usqp=CAU" group-title="HINDI MOVIE.",Hasti Tv
 https://live.hastitv.com/hls/livetv.m3u8
 #EXTINF:0 tvg-logo="https://www.pngkey.com/png/detail/211-2118020_utv-action-utv-action-logo-png.png" group-title="HINDI MOVIE.",UTV-Action
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3436.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjiT7HwkS3gJqTlA7QGqzt5iBFP495cCb3Vg&usqp=CAU" group-title="HINDI MOVIE.",U Tv
+http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/l9Ae4yaZmJNMdSFNdy8MUCr2MRwO-JMUsCQuJNgHVfo1wNoqEY9q5O5aNsgSXlnxKUbJfDF3UytyicWvlkXkVoo2NGrjKUIYMynVJgLjHwQbMvqs4KTrumTeceSdnng_hQ=w1280" group-title="HINDI MOVIE.",U TV Movie 
 http://103.127.92.38:81/play/utvmovies
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/l9Ae4yaZmJNMdSFNdy8MUCr2MRwO-JMUsCQuJNgHVfo1wNoqEY9q5O5aNsgSXlnxKUbJfDF3UytyicWvlkXkVoo2NGrjKUIYMynVJgLjHwQbMvqs4KTrumTeceSdnng_hQ=w1280" group-title="HINDI MOVIE.",U TV 
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/130px-Sony_MAX.svg.png" group-title="HINDI MOVIE.",Set Max
 http://103.166.253.222/hls/sonymax.m3u8
@@ -209,7 +210,7 @@ http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/08/Zee-Bollywood-Logo.jpg" group-title="HINDI MOVIE.",Zee-Bollywood
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2018/08/Zee-Bollywood-Logo.jpg" group-title="HINDI MOVIE.",Zee Classic 
+#EXTINF:0 tvg-logo="https://lh4.googleusercontent.com/C3iSXyItD5TAobfwo_0MbWVXBiLQi6ECnOOimseEyhxq8xKd_5O50_1EYG86-eFz0herI2I0sJhs9agkPC5egajOGcc0ug5A3OXHy5d87z5KR6SM1ylP53Ydn2xrB3ZDSQ=w1280" group-title="HINDI MOVIE.",Zee Classic 
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="HINDI MOVIE.",B4U-Kadak
 https://idvd.multitvsolution.com/idvo/moviehouse.m3u8
@@ -334,7 +335,7 @@ http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS.",Geo Super
 http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="SPORTS.",Ten Sports
-http://tv2.ebox.live:8080/live/ten-sports.m3u8
+http://dangguli.live:8080/TenSports/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfsFCVHffnNjsqYtyMP10_e2i_hKikQ2JYswj51osv9kICEWd960REDHImHrcZD1l69g&usqp=CAU" group-title="SPORTS.",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.m3u8
 #EXTINF:0 tvg-logo="https://banner2.cleanpng.com/20180611/ivp/kisspng-star-sports-star-india-television-channel-sony-ten-sportstv-5b1ed6839505d4.2492886615287476516104.jpg" group-title="SPORTS.",Unifi Sports 2

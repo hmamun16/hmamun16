@@ -271,7 +271,11 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?checkedby:D4N-IPTV
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/CDN/playlist.m3u8?checkedby:D4N-IPTV
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQarY6a6Z6dJcJgPsW9856WNLKmalVoberuQ&usqp=CAU" group-title="ENGLISH MOVIE.",Cinemax
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
-http://103.127.92.38:81/play/a01g
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQarY6a6Z6dJcJgPsW9856WNLKmalVoberuQ&usqp=CAU" group-title="ENGLISH MOVIE.",
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQarY6a6Z6dJcJgPsW9856WNLKmalVoberuQ&usqp=CAU" group-title="ENGLISH MOVIE.",
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJm8S5Stl3mKnG9sprkBjsayk-G8CG4Qp5cA&usqp=CAU" group-title="ENGLISH MOVIE.",HAUNT TV
+https://haunttv-roku.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 #EXTINF:0 tvg-logo="https://www.seekpng.com/png/full/357-3579186_c1-full-cinema-one-logo-png.png" group-title="ENGLISH MOVIE.",C 1 Tv
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemaone/CDN/playlist.m3u8?checkedby:D4N-IPTV
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv83wyglG_3gJb6pB1cGbuKVpbUF1Fx54CCA&usqp=CAU" group-title="ENGLISH MOVIE.",Hollywood Movies
@@ -336,14 +340,14 @@ http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="SPORTS.",Ten Sports
 http://dangguli.live:8080/TenSports/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfsFCVHffnNjsqYtyMP10_e2i_hKikQ2JYswj51osv9kICEWd960REDHImHrcZD1l69g&usqp=CAU" group-title="SPORTS.",Unifi Sports 1
+#EXTINF:0 tvg-logo="https://encryptedhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5J3qoJYqYAVj0CfvdcFvgP5kCW89VjdeNcA&usqp=CAU" group-title="SPORTS.",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.m3u8
-#EXTINF:0 tvg-logo="https://banner2.cleanpng.com/20180611/ivp/kisspng-star-sports-star-india-television-channel-sony-ten-sportstv-5b1ed6839505d4.2492886615287476516104.jpg" group-title="SPORTS.",Unifi Sports 2
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5CtyUP3ZOp287OCzdF294MTpkMcxq24L_rA&usqp=CAU" group-title="SPORTS.",Unifi Sports 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXlFH_3cl5BIpBGygw1ATyzk1j5NgFtrDpKg&usqp=CAU" group-title="SPORTS.",Star Sports S 1
+#EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="SPORTS.",SONY TEN 1 HD
+http://dangguli.live:8080/SonyTen1/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Ix7jwVEKacW3q37grnPJ51IlA2NVJ5PZoA&usqp=CAU" group-title="SPORTS.",Sony Ten Hd 2
 http://stream.serverbd247.com/hls/sky10.m3u8
-#EXTINF:0 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-select-2.jpg" group-title="SPORTS.",Star Sports S 2
-http://ranapk-june3.in1.bitmana.io/play.php?c=Jio_Football_2
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DWozNRxJHB5yem85lzALVBSvqC4VjTm4hQ&usqp=CAU" group-title="SPORTS.",bEin-Sports 1
 http://asdd.cc:7444/live/cafe/cafe/2463.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauLm-BU6XrZVYgSij4fCK7MnXHvELZCG3pg&usqp=CAU" group-title="SPORTS.",bEin-Sports 2

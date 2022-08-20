@@ -271,9 +271,18 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?checkedby:D4N-IPTV
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/CDN/playlist.m3u8?checkedby:D4N-IPTV
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQarY6a6Z6dJcJgPsW9856WNLKmalVoberuQ&usqp=CAU" group-title="ENGLISH MOVIE.",Cinemax
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQarY6a6Z6dJcJgPsW9856WNLKmalVoberuQ&usqp=CAU" group-title="ENGLISH MOVIE.",Tv
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQarY6a6Z6dJcJgPsW9856WNLKmalVoberuQ&usqp=CAU" group-title="ENGLISH MOVIE.",
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQarY6a6Z6dJcJgPsW9856WNLKmalVoberuQ&usqp=CAU" group-title="ENGLISH MOVIE.",
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQarY6a6Z6dJcJgPsW9856WNLKmalVoberuQ&usqp=CAU" group-title="ENGLISH MOVIE.",
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQarY6a6Z6dJcJgPsW9856WNLKmalVoberuQ&usqp=CAU" group-title="ENGLISH MOVIE.",
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo7oGsv3hRwNlBs4LjS2EQkhW0SKixa-2Grw&usqp=CAU" group-title="ENGLISH MOVIE.",Laotra Tv
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJm8S5Stl3mKnG9sprkBjsayk-G8CG4Qp5cA&usqp=CAU" group-title="ENGLISH MOVIE.",HAUNT TV
 https://haunttv-roku.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
 #EXTINF:0 tvg-logo="https://www.seekpng.com/png/full/357-3579186_c1-full-cinema-one-logo-png.png" group-title="ENGLISH MOVIE.",C 1 Tv
@@ -368,8 +377,8 @@ http://157.90.248.102/upload/images/logo05.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZKjZjHBvcsSsdJTpKbCBLsR8XELtE-3JhQ&usqp=CAU" group-title="FISHING.",Wired 2-Fish
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="COOKING.",Food Network
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Viasat_Nature.png" group-title="COOKING.",Viasat Natur
+https://sc.id-tv.kz/ViasatNature.m3u8
 #EXTINF:0 tvg-logo="usercontent.com/7GPtKl7Hlq54fS84QVntl1-Q2dHgr4wULMg_aJnrnmiDdJ3J_b3xSjcpomKR_j7BXxL6u8N0_vPTJjg6VdDeFSThggaaJ0wZ1DZzL_n-aXbIOJfjK6JNdGFxoJor5lAFGQ=w1280" group-title="DOCUMENTARY.",Asia Event 
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJ9fu0y0ghYs7H5QnDmmiTWPB3BDzaasB6g&usqp=CAU" group-title="DOCUMENTARY.",B Adventure Tv
@@ -380,8 +389,8 @@ http://xcui.vitvabc.xyz:8880/287994020417/287994020417/16705
 https://livecdn.fptplay.net/hda2/discovery_hls.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="LIFESTYLE.",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTae16trv9RsqYJwwPTHbCUbI6m-vp6MWNIwA&usqp=CAU" group-title="LIFESTYLE.",Nature Tv
-http://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUZSP_my4bGXRn1dkIbj0BG3FOQrQdbHUPMg&usqp=CAU" group-title="LIFESTYLE.", Food 52
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-redboxfood52A/CDN/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="GEOGRAPHIC.",Animal Planet Hindi
 https://livecdn.fptplay.net/hda2/animalplanet_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4VVPrxlQqRe9E0u-Vf3qEV4yLcXCSs7_0dg&usqp=CAU" group-title="GEOGRAPHIC.",Sony BBC Earth 

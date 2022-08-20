@@ -38,6 +38,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Mytv.jpg/revision/latest/scale-to-width-down/340?cb=20170601044246" group-MY-TV="BANGLA ENT.",মাই-টিভি
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-eNSpXch0hao/V-ufoyUYamI/AAAAAAAAEo0/sNkPUBcgoh85PcTAtKMnBo3ESBdVkZITACLcB/s1600/boishakhi-tv.jpg" group-BOISHAKHI-TV="BANGLA ENT.",বৈশাখী-টিভি
+http://dangguli.live:8080/BoishakhiTV/index.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/boishakhitvplus.jpeg" group-BOISHAKHI-PLUS="BANGLA ENT.",বৈশাখী-প্লাস
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/chunks.m3u8
@@ -46,6 +47,7 @@ https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZLk8hmtzmoLDuo6NDNrk3nWFIRq8VoofYjw&usqp=CAU" group-DESH-TV="BANGLA ENT.",দেশ-টিভি
 http://208.86.19.13:81/629.stream/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-G-TV="BANGLA ENT.",গাজী-টিভি
+https://tv.kotha.im/GTV_HD/index.m3u8
 http://dangguli.live:8080/GaziTV/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-ASIAN-TV="BANGLA ENT.",এশিয়ান-টিভি
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
@@ -265,20 +267,20 @@ http://14.199.164.20:4001/play/a0p2/index.m3u8
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsHl0NegVC_gpgM00ODvFB00Tuhyc5RzKccw&usqp=CAU" group-title="ENGLISH MOVIE.",CRACKLE Tv
 http://crackle-xumo.amagi.tv/playlist.m3u8?checkedby:D4N-IPTV
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt2UhMbstSNziG6_eij6xe-YJ3grfJXtmrOw&usqp=CAU" group-title="ENGLISH MOVIE.",Movie X
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?checkedby:D4N-IPTV
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmEZzKfkN8gTWzaYrdZ9Aa_1TM8jgN0Z6dVA&usqp=CAU" group-title="ENGLISH MOVIE.",Rakton Tv
+https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Cinemo_logo_vectorized.svg/1200px-Cinemo_logo_vectorized.svg.png" group-title="ENGLISH MOVIE.",CINEMO
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/CDN/playlist.m3u8?checkedby:D4N-IPTV
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQarY6a6Z6dJcJgPsW9856WNLKmalVoberuQ&usqp=CAU" group-title="ENGLISH MOVIE.",Cinemax
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQarY6a6Z6dJcJgPsW9856WNLKmalVoberuQ&usqp=CAU" group-title="ENGLISH MOVIE.",Tv
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/66/b8/00/66b80073cf066f91017a71c61b4a5444.png" group-title="ENGLISH MOVIE.",Telecine Action 
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQarY6a6Z6dJcJgPsW9856WNLKmalVoberuQ&usqp=CAU" group-title="ENGLISH MOVIE.",
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQarY6a6Z6dJcJgPsW9856WNLKmalVoberuQ&usqp=CAU" group-title="ENGLISH MOVIE.",
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQarY6a6Z6dJcJgPsW9856WNLKmalVoberuQ&usqp=CAU" group-title="ENGLISH MOVIE.",
-
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyuSqDedw2w_dB-XHNXKHZ1bGKAJyPM7pGMQ&usqp=CAU" group-title="ENGLISH MOVIE.",MCA Tv
+http://210.210.155.37/session/e5da17ea-2038-11ed-a357-8629b49b6726/uq2663/h/h193/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT148CSFvy2EU7Ug5sOGy7Qk__SJFnlVJt-ZQ&usqp=CAU" group-title="ENGLISH MOVIE.",Rtve
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNYp1Tqup7wGVGSk1ezkT3-CKfLLmmugohlQ&usqp=CAU" group-title="ENGLISH MOVIE.",Crystal Movie
+http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQarY6a6Z6dJcJgPsW9856WNLKmalVoberuQ&usqp=CAU" group-title="ENGLISH MOVIE.",
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo7oGsv3hRwNlBs4LjS2EQkhW0SKixa-2Grw&usqp=CAU" group-title="ENGLISH MOVIE.",Laotra Tv

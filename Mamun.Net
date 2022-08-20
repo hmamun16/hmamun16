@@ -309,8 +309,8 @@ http://210.210.155.37/dr9445/s/s24/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZO1cWukkLQ4Z-CDs6X0wveWCs1DvLkJVKSA&usqp=CAU" group-title="ENGLISH MOVIE.",MEGAPIX HD
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngrR0DfEqIThsW1eMxLP6cXnFWRmk12B7MZ8-04ZQ=s900-c-k-c0x00ffffff-no-rj" group-title="ENGLISH MOVIE.",Amirikan Movie
 https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
-#EXTINF:0 tvg-logo="http://play.google.com/store/apps/details?id=com.mehedisoft.iptvapp_mobile" group-title="ENGLISH MOVIE.",Cinema Tv
-https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXBQbuKVO054xUS4_Pe9CaJcPwms_MIc9qOxFLwmMqY5LgTUJ5Q80i3Fo&s=10" group-title="ENGLISH MOVIE.",Tv 1000
+https://sc.id-tv.kz/TV1000.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvYUlpTfOaMRAtDocGoYPsHsLcxvIEqeJy8A&usqp=CAU" group-title="ENGLISH MOVIE.",Sofy Tv
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVboo9qb7uMUMc1pNv-6Ey7VGmYpIDS_J0Sw&usqp=CAU"group-title="ENGLISH MOVIE.",H Tv

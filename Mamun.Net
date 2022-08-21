@@ -27,6 +27,8 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:0 tvg-logo="https://cdn.risingbd.com/media/imgAll/2020April/bg/dipto-risingbd20200417082428.jpg" group-DEEPTO-TV="BANGLA ENT.",দিপ্ত-টিভি
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/bangla-tv.jpg" group-BANGLA-TV="BANGLA ENT.",২১ বাংলা টিভি 
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://tv.hotflix.stream/uploads/tv_image/bangla-tv.jpg" group-BANGLA-TV="BANGLA ENT.",বাংলা-টিভি
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/280x280_RS/80/b0/78/80b078bc83d20b33f463f63eb5a02c52.jpg" group-ANANDA-TV="BANGLA MOVIE.",আনন্দ-টিভি
@@ -38,7 +40,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Mytv.jpg/revision/latest/scale-to-width-down/340?cb=20170601044246" group-MY-TV="BANGLA ENT.",মাই-টিভি
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-eNSpXch0hao/V-ufoyUYamI/AAAAAAAAEo0/sNkPUBcgoh85PcTAtKMnBo3ESBdVkZITACLcB/s1600/boishakhi-tv.jpg" group-BOISHAKHI-TV="BANGLA ENT.",বৈশাখী-টিভি
-http://dangguli.live:8080/BoishakhiTV/index.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/12/boishakhitvplus.jpeg" group-BOISHAKHI-PLUS="BANGLA ENT.",বৈশাখী-প্লাস
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/chunks.m3u8
@@ -127,8 +129,8 @@ https://iptv2.raytahost.com/live/sadhinbangla/index.m3u8
 https://sbnet.raytahost.com/live/sbnet/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd6sTYidR8Ds2pTCODGiAuMYdG8LE4hsM2Xg&usqp=CAU" group-title="BANGLA ENT.",আই-টিভি ইউ কে
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/09/itv-200x200.png" group-title="BANGLA ENT.",ওয়েভ-টিভি
-https://nbn.chowdhury-shaheb.com/live/wedigital/chunks.m3u8
+#EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/09/itv-200x200.png" group-title="BANGLA ENT.",বরেন্দ্র-টিভি
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.doyeltv.com/wp-content/uploads/2020/08/Doyel-Tv-Web-Logo.png" group-title="BANGLA ENT.",দোয়েল-টিভি
 http://ipm.oncast.me:1934/iplived/ip-doyeltv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://channeltt.tv/uploads/meta_image/small-logo.png" group-title="BANGLA ENT.",চ্যানেল-টিটি ইউ কে

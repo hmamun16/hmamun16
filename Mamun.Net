@@ -121,7 +121,7 @@ https://ap02.iqplay.tv:8082/iqb8002/ch4n3ls/playlist.m3u8
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/m7UvZLUj76Gv2Rwvbk1sKYk6ra6zWWmQGkJMCMZtvUME59BH76vU4ScIY0L_qw_qHA=s200" group-title="BANGLA ENT.",নন্দন-টিভি
 http://nandansyst.com/hls/nandan.m3u8
 #EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2020/11/sadhinbangla.png" group-title="BANGLA ENT.",স্বাধীন-বাংলা এইচডি
-http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/3315.m3u8
+https://iptv2.raytahost.com/live/sadhinbangla/index.m3u8
 https://iptv2.raytahost.com/live/sadhinbangla/index.m3u8
 #EXTINF:0 tvg-logo="https://www.shadhinbanglatv.net/wp-content/uploads/2021/04/logoo-800x490.png" group-title="BANGLA MOVIE.",স্বাধীন বাংলা টিভি
 https://sbnet.raytahost.com/live/sbnet/index.m3u8

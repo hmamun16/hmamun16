@@ -151,6 +151,8 @@ http://203.190.11.101:1935/live/remote/chunklist_w1446657896.m3u8
 https://cdn5.iqsat.net/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSlFe6VqQBj86KkUd3pBqfmghb4m6F8q3D3Q&usqp=CAU" group-title="BANGLA ENT.",টিভি ওয়ান
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/tvoneuksni.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSlFe6VqQBj86KkUd3pBqfmghb4m6F8q3D3Q&usqp=CAU" group-title="BANGLA ENT.",জিরো নিউজ 
+https://live.tvdhaka.com:30443/live/zeronews/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcKbNp8-c_IPnPJYnRx1rWGKBzWwfKqg0pLw&usqp=CAU" group-title="BANGLA ENT.",জাগো নিওজ
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjW8g-tQCosrKVSrrHlP-SoTrzlaH_ixDg8R3N1=s900-c-k-c0x00ffffff-no-rj" group-NEWS-24="BANGLA NEWS.",নিউজ-২৪(BDIX)

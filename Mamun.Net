@@ -304,7 +304,7 @@ http://103.127.92.38:81/play/a01h
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7QiRJevINmRHY09lQZHAqpe40GwcVKpe1ug&usqp=CAU"group-titile="ENGLISH MOVIE.",Axn 
 http://103.127.92.38:81/play/axn
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4W0QRjG0Ohe2Lazt7NtIQZZ25dkHWz-Miw&usqp=CAU" group-title="ENGLISH MOVIE.",The Movie Hub
-https://dje6yassknq8t.cloudfront.net/playlist.m3u8
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 http://iptv.prosto.tv:7000/ch50/video.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" group-title="ENGLISH MOVIE.",Romedy Now
 http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8

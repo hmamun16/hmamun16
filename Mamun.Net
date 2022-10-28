@@ -79,6 +79,8 @@ https://bds.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 https://live.tvdhaka.com:30443/channelbd/71Bangla/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/n8xwHts937U/hqdefault_live.jpg" group-MOVIE-BANGLA="BANGLA MOVIE.",মুভি-বাংলা
 http://alvetv.com/mbtv/8080/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/n8xwHts937U/hqdefault_live.jpg" group-MOVIE-BANGLA="BANGLA MOVIE.",52 Tv
+https://5dd3981940faa.streamlock.net/channel52tv/channel52tv/chunklist_w2102345989.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUkjr4yiLMHDxjJl5tYAX-Pa5-tVzGD-NXHw&usqp=CAU" group-MOVIE-BANGLA="BANGLA MOVIE.",আইওন টিভি 
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/iontvuk.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9kntzg7aKIjhD5vtXg_CQ574MR3Usvlnz-w&usqp=CAU" group-title="BANGLA ENT.",গ্লোবাল-টিভি
@@ -188,7 +190,7 @@ http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2769.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2020/03/04/Colors-Cineplex.jpg" group-title="HINDI MOVIE.",Colors Cineplex
 http://103.55.144.46:80/hls/colorscineplex.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo4cdfLfq1DvEPh5ONqNKYEK7blT5eKyw1HQ&usqp=CAU" group-title="HINDI MOVIE.",Joo-Music
-https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPZBd9suwXc4Y1c-dRexu4QcTXrspfbKpA8MbeFYhp3W9a8kJReT9OdTg&s=10" group-title="HINDI MOVIE.",E24
 http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
@@ -327,8 +329,9 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlsJBCc3S1Al5HbLGb4JvYATLEtcoIA7u4ow&usqp=CAU" group-title="ENGLISH MOVIE.",TV 5
 http://210.210.155.37/dr9445/s/s24/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZO1cWukkLQ4Z-CDs6X0wveWCs1DvLkJVKSA&usqp=CAU" group-title="ENGLISH MOVIE.",MEGAPIX HD
+https://video01.logicahost.com.br/tvkidmais/tvkidmais/playlist.m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngrR0DfEqIThsW1eMxLP6cXnFWRmk12B7MZ8-04ZQ=s900-c-k-c0x00ffffff-no-rj" group-title="ENGLISH MOVIE.",Amirikan Movie
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/master.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXBQbuKVO054xUS4_Pe9CaJcPwms_MIc9qOxFLwmMqY5LgTUJ5Q80i3Fo&s=10" group-title="ENGLISH MOVIE.",Tv 1000
 https://sc.id-tv.kz/TV1000.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvYUlpTfOaMRAtDocGoYPsHsLcxvIEqeJy8A&usqp=CAU" group-title="ENGLISH MOVIE.",Sofy Tv
@@ -373,13 +376,13 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master_5.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCoSvY0eUgTBb2jbppGZ_0YYEtUqPWAt9m9g&usqp=CAU" group-title="SPORTS.",Claro Sports
 https://linear-348.frequency.stream/348/hls/master/playlist_1920x1080.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-T1fNcPdR6doQjKqdaPa1BQxq9oPuViZDMqmSO2s7a4EzdY68IEc9RchkqGh9Q2B0fVc&usqp=CAU" group-title="SPORTS.",Maq Tv
-http://51.89.98.62:8080/nadilson/12345678/27282
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",SporTV HD*
-http://51.89.98.62:8080/nadilson/12345678/27275
+https://stmv1.srvif.com/adqstv/adqstv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",SporTV HD*2
-http://51.89.98.62:8080/nadilson/12345678/27277
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",SporTV HD*3
-http://51.89.98.62:8080/nadilson/12345678/27279
+https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67qlOkh2MUy-2gZCHduWRwx_YZ1lkhf3rWw&usqp=CAU" group-title="WRESTLING.",WWE-Wrestling
 http://157.90.248.102/upload/images/logo05.m3u8
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/793/877/png-clipart-red-bull-gmbh-logo-energy-drink-brand-red-bull-company-text.png" group-title="DOCUMENTARY.",Red Bull Tv
